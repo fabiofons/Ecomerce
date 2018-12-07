@@ -13,3 +13,7 @@ nav img {
 .thumbnail p {
     font-size: 12px;
 }
+ .thumbnail a {
+     margin:5px 15px 5px 0;
+     min-width:35%;
+ }
